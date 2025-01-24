@@ -2,7 +2,7 @@
 
 Bem-vindo ao **Sorteio de Amigo Secreto**! Esta aplicação web permite que você adicione amigos a uma lista e realize um sorteio para descobrir quem será o seu amigo secreto! 🥳  
 
-Este projeto faz parte do projeto da **#AluraLatam** e **#OracleNextEducation**.  
+Este projeto faz parte do programa da **#AluraLatam** e **#OracleNextEducation**.  
 
 ## 🌟 Funcionalidades  
 
