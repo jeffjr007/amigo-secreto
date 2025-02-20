@@ -92,7 +92,7 @@ body {
     justify-content: center;
     display: flex;
     flex-direction: column;
-    gap: 20px; /* Adicionando espaçamento entre os botões */
+    gap: 20px; 
 }
 
 /* Estilos de entrada de texto */
